@@ -1,0 +1,62 @@
+.card{
+    
+}
+.card>.card-header{
+     height: 100px;
+     text-align: center;
+     font-size: 36px;
+}
+.title_content{
+    width: 50%;
+    float: left;
+}
+.title_content2{
+    width: 50%;
+    float: right;
+}
+.Details{
+    float: left;
+}
+.button1_action{
+text-align: center;
+
+}
+.button2_action{
+text-align: center;
+}
+
+.input-group-text{
+min-width:180px;
+}
+
+.row .row1{
+padding-left: 15px;
+}
+
+.topright {
+    position: absolute;
+    right: 16px;
+}
+.fullscreenDiv {
+    background-color: #e8e8e8; 
+    width: 100%; 
+    height: auto; 
+    bottom: 0px; 
+    top: 0px; 
+    left: 0; 
+    position: absolute; 
+}
+.center {
+    position: absolute; 
+    width: 100px; 
+    height: 50px; 
+    top: 50%; 
+    left: 50%; 
+    margin-left: -50px;  /* margin is -0.5 * dimension */
+    margin-top: -25px;  
+}​
+a {
+    color: #007bff !important;
+}
+
+
